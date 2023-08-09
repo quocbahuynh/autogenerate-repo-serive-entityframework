@@ -1,0 +1,16 @@
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\RepositoryGenerator\bin\Debug\net5.0\RepositoryGenerator.exe
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\RepositoryGenerator\bin\Debug\net5.0\RepositoryGenerator.deps.json
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\RepositoryGenerator\bin\Debug\net5.0\RepositoryGenerator.runtimeconfig.json
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\RepositoryGenerator\bin\Debug\net5.0\RepositoryGenerator.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\RepositoryGenerator\bin\Debug\net5.0\RepositoryGenerator.dll
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\RepositoryGenerator\bin\Debug\net5.0\RepositoryGenerator.pdb
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\RepositoryGenerator\obj\Debug\net5.0\RepositoryGenerator.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\RepositoryGenerator\obj\Debug\net5.0\RepositoryGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\RepositoryGenerator\obj\Debug\net5.0\RepositoryGenerator.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\RepositoryGenerator\obj\Debug\net5.0\RepositoryGenerator.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\RepositoryGenerator\obj\Debug\net5.0\RepositoryGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\RepositoryGenerator\obj\Debug\net5.0\RepositoryGenerator.dll
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\RepositoryGenerator\obj\Debug\net5.0\refint\RepositoryGenerator.dll
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\RepositoryGenerator\obj\Debug\net5.0\RepositoryGenerator.pdb
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\RepositoryGenerator\obj\Debug\net5.0\RepositoryGenerator.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\RepositoryGenerator\obj\Debug\net5.0\ref\RepositoryGenerator.dll
